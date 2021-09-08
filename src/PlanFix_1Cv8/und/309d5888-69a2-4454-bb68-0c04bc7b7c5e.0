@@ -8080,7 +8080,7 @@ YXJhbWV0ZXJzLz4NCjwvU2V0dGluZ3M+}
 {9,
 {11,409b9a53-7f7e-4178-86c1-33176c7c7a7a},"ПолучитьJSONКонтатковИзPlanfix",
 {1,1,
-{"ru","Получить пример JSON контатков из Planfix"}
+{"ru","Получить пример JSON контактов из Planfix"}
 },
 {1,1,
 {"ru","Получить JSONКонтатков из planfix"}
